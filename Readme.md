@@ -1,6 +1,6 @@
 # ParFlow CONCN | 上善若水  
 **The first surface water-groundwater integrated hydrologic modeling platform of mainland China**  
-Please contact cy15@princeton.edu for details
+Please consult cy15@princeton.edu for details
 
 Please pay attention to the coming:  
 **EGU24**  Vienna, Austria | 14-19 April 2024  
