@@ -1,5 +1,6 @@
 # ParFlow CONCN  
 The first surface water-groundwater integrated hydrologic modeling platform of mainland China  
+Please contact cy15@princeton.edu for details
 # 上善若水
 Please pay attention to the coming **EGU24, ModFlow&More24, and AOGS24.**  
 ## Acknowledgements  
