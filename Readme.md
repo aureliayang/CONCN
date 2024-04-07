@@ -8,6 +8,8 @@ Please pay attention to the coming:
 **AOGS24**  Pyeongchang, South Korea | 23-28 June 2024  
 ## Acknowledgements  
 Xiaolang Zhang  
+Zhongwang Wei  
+Shanshan Hua  
 Zitong Jia  
 Wenjie Xu  
 ***Here is a slot for you!***
