@@ -22,7 +22,7 @@ Wenjie Xu
 Welcome sharing water table depth and streamflow observations.  
 Or talking about potential collaboration using your observations. 
 
-## Leveraging global datasets 
+## Leveraging global data products 
 ![image](https://github.com/aureliayang/ParFlow-CONCN/blob/main/imgs/streamflow.jpg)  
 ![image](https://github.com/aureliayang/ParFlow-CONCN/blob/main/imgs/groundwater.jpg)  
 
