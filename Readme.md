@@ -2,7 +2,7 @@
 **The first surface water-groundwater integrated hydrologic modeling platform of mainland China**  
 Please consult cy15@princeton.edu for details  
 
-Hardware:
+Hardware:  
 Princeton DellaGPU 4 NVIDIA A100 80GB  
 NCAR Derecho 4608 CPU cores, 3rd Gen AMD EPYC™ 7763 Milan processors
 
