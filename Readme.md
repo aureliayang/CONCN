@@ -11,7 +11,6 @@ Please pay attention to the coming:
 **EGU24**  Vienna, Austria | 14-19 April 2024  
 **ModFlow&More24**  Princeton, USA | 2-5 June 2024  
 **AOGS24**  Pyeongchang, South Korea | 23-28 June 2024  
-
 ## Acknowledgements  
 Xiaolang Zhang  
 Zhongwang Wei  
@@ -23,7 +22,7 @@ Wenjie Xu
 Welcome sharing water table depth and streamflow observations.  
 Or talking about potential collaboration using your observations. 
 
-**Leveraging global datasets:**  
+## Leveraging global datasets 
 ![image](https://github.com/aureliayang/ParFlow-CONCN/blob/main/imgs/streamflow.jpg)  
 ![image](https://github.com/aureliayang/ParFlow-CONCN/blob/main/imgs/groundwater.jpg)  
 
