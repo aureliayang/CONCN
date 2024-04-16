@@ -5,12 +5,17 @@ Please consult cy15@princeton.edu for details
 
 Hardware:  
 **Princeton DellaGPU** 4 NVIDIA A100 80GB  
-**NCAR Derecho** 4608 CPU cores, 3rd Gen AMD EPYC™ 7763 Milan processors
+**NCAR Derecho** 4608 CPU cores, 3rd Gen AMD EPYC™ 7763 Milan processors  
 
 Please pay attention to the coming:  
 **EGU24**  Vienna, Austria | 14-19 April 2024  
 **ModFlow&More24**  Princeton, USA | 2-5 June 2024  
 **AOGS24**  Pyeongchang, South Korea | 23-28 June 2024  
+
+Leveraging global datasets:  
+![image](https://github.com/aureliayang/ParFlow-CONCN/blob/main/imgs/streamflow.jpg)  
+![image](https://github.com/aureliayang/ParFlow-CONCN/blob/main/imgs/groundwater.jpg)  
+
 ## Acknowledgements  
 Xiaolang Zhang  
 Zhongwang Wei  
