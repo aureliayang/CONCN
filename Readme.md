@@ -3,8 +3,8 @@
 Please consult cy15@princeton.edu for details  
 
 Hardware:  
-Princeton DellaGPU 4 NVIDIA A100 80GB  
-NCAR Derecho 4608 CPU cores, 3rd Gen AMD EPYC™ 7763 Milan processors
+**Princeton DellaGPU** 4 NVIDIA A100 80GB  
+**NCAR Derecho** 4608 CPU cores, 3rd Gen AMD EPYC™ 7763 Milan processors
 
 Please pay attention to the coming:  
 **EGU24**  Vienna, Austria | 14-19 April 2024  
