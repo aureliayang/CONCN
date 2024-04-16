@@ -1,5 +1,6 @@
 # ParFlow CONCN | 上善若水  
 **The first surface water-groundwater integrated hydrologic modeling platform of mainland China**  
+30 acrsec horizontal resolution, 492 m of 10 layers  
 Please consult cy15@princeton.edu for details  
 
 Hardware:  
